@@ -1,0 +1,32 @@
+C:\Users\Slawek\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Slawek\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Slawek\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Slawek\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Slawek\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.MainWindow.resources
+C:\Users\Slawek\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Slawek\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Slawek\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Slawek\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Slawek\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Slawek\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.Scoreboard.resources
+F:\C# projekt\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+F:\C# projekt\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+F:\C# projekt\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+F:\C# projekt\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+F:\C# projekt\Sudoku\Sudoku\obj\Debug\Sudoku.MainWindow.resources
+F:\C# projekt\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+F:\C# projekt\Sudoku\Sudoku\obj\Debug\Sudoku.Scoreboard.resources
+F:\C# projekt\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+F:\C# projekt\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+F:\C# projekt\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+F:\C# projekt\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+E:\C# projekt\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+E:\C# projekt\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+E:\C# projekt\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+E:\C# projekt\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+E:\C# projekt\Sudoku\Sudoku\obj\Debug\Sudoku.MainWindow.resources
+E:\C# projekt\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+E:\C# projekt\Sudoku\Sudoku\obj\Debug\Sudoku.Scoreboard.resources
+E:\C# projekt\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+E:\C# projekt\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+E:\C# projekt\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
